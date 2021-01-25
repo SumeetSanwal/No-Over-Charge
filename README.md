@@ -2,7 +2,7 @@
   
 ### Overview
 
-Windows full battery notifier application. Enter the battery percentage in pop up on plugging the charge and a notification will be shown after the charge level is reached and pop ups will continue after every 5 min after crossinf the specifie charge level.
+Windows full battery notifier application. Enter the battery percentage in pop up on plugging the charge and a notification will be shown after the charge level is reached and pop ups will continue after every 5 min after crossing the specifie charge level.
 
 ### Quick Start
 
